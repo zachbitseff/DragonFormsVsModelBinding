@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DragonFormsVsModelBinding", "DragonFormsVsModelBinding\DragonFormsVsModelBinding.csproj", "{1DF094A8-5D9E-4DEF-9463-D0BB7B21BCBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DF094A8-5D9E-4DEF-9463-D0BB7B21BCBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DF094A8-5D9E-4DEF-9463-D0BB7B21BCBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DF094A8-5D9E-4DEF-9463-D0BB7B21BCBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DF094A8-5D9E-4DEF-9463-D0BB7B21BCBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90EF3E3D-37F5-4BE7-B2BD-E5E1DCDBF10A}
+	EndGlobalSection
+EndGlobal

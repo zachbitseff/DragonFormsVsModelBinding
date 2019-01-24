@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewData["Title"] = "DragonForm";
+}
+
+<h2>DragonForm</h2>
+
+<form asp-action="DragonForm"
+      asp-controller="Home">
+
+    <label for="dragon_name">Name: </label>
+    <input type="text" id="dragon_name" name="dragon_name" />
+    <br />
+
+    <input type="submit" value="Add Dragon" />
+
+</form>

@@ -1,0 +1,17 @@
+﻿@model Dragon
+@{
+    ViewData["Title"] = "DragonForm";
+}
+
+<h2>DragonFormBinding</h2>
+
+<form asp-action="DragonFormModelBound"
+      asp-controller="Home">
+
+    <label asp-for="Name"></label>
+    <input asp-for="Name" />
+    <span asp-validation-for="Name"></span>
+    <br />
+
+
+</form>
